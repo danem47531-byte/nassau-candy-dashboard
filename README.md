@@ -2,7 +2,7 @@
 
 A Streamlit dashboard for Nassau Candy Distributor's product line profitability and margin performance analysis.
 # To See
-https://lmn6ttsxkmebemz44ng9qj.streamlit.app/
+[https://lmn6ttsxkmebemz44ng9qj.streamlit.app/](https://2df42t6xv6cfzzjh3dapnu.streamlit.app/#product-level-margin-leaderboard)
 
 ---
 
